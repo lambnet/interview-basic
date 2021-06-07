@@ -1,2 +1,2 @@
 # interview-basic
-basic tech interiew exercise with Java
+basic tech interview exercise with Java
